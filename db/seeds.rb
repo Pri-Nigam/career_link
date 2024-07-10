@@ -8,7 +8,4 @@
 
 Category.create(name: "Information technology")
 Category.create(name: "Human Resources")
-Category.create(name: "Software Development")
-Category.create(name: "Medical Coding")
-Category.create(name: "Sodtware Development Executive")
-Category.create(name: "Digital Marketing")
+
